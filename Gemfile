@@ -40,6 +40,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 gem "bulma-rails", "~> 0.8.0"
 gem 'simple_form'
+gem 'public_activity'
+
 
 
 
