@@ -56,6 +56,8 @@ group :development, :test do
   gem "better_errors"
   gem "binding_of_caller"
   gem 'guard'
+  gem 'guard-livereload', '~> 2.5', require: false
+  gem 'meta_request'
 end
 
 group :development do
