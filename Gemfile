@@ -42,6 +42,10 @@ gem "bulma-rails", "~> 0.8.0"
 gem 'simple_form'
 gem 'public_activity'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
+gem 'gravatar_image_tag', '~> 1.2'
+gem 'wysiwyg-rails', '~> 3.1'
+gem 'devise'
+
 
 
 
